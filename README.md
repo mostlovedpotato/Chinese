@@ -13,7 +13,7 @@
 
 ## 🟧 Daily Lesson & Word
 
-#### [Day1]()
+#### [Day1](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day1.md)
 
 
 
