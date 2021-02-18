@@ -13,7 +13,9 @@
 
 ## 🟧 Daily Lesson & Word
 
-#### [Day1](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day1.md)
+#### * [Day1](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day1.md)
+
+#### * [Day2](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day2.md)
 
 
 
