@@ -15,6 +15,7 @@
 客厅
 
 Pinyin word :  kè tīng
+
 Meaning : drawing room
 
 [客厅](https://www.purpleculture.net/dictionary-details/?word=%E5%AE%A2%E5%8E%85)
