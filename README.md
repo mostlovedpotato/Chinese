@@ -1,5 +1,7 @@
 # 🔴 Chinese
 
+**Most of my Daily Lessons are taken either from youtube or other good resource. For following up you can practice on Duolingo.
+As the path will be almost same.**
 
 ## Daily Lessons and Words 
 
