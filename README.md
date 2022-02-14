@@ -21,5 +21,9 @@ As the path will be almost same.**
 
 * [Day3](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day3.md)
 
+* [Day4](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day4.md)
+
+* [Day5](https://github.com/mostlovedpotato/Chinese/blob/main/Lessons-n-words/Day5.md)
+
 
 
